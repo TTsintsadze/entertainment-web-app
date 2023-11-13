@@ -6,7 +6,7 @@ import HomeIcon from "../../assets/icon-nav-home.svg";
 import MoviesIcon from "../../assets/icon-nav-movies.svg";
 import TvSeriesIcon from "../../assets/icon-nav-tv-series.svg";
 import LogoIcon from "../../assets/logo.svg";
-import LoginForm from "../../assets/image-avatar.png";
+// import LoginForm from "../../assets/image-avatar.png";
 import {SelectedCategory} from "../../App"
 
 const SideBar = () => {
