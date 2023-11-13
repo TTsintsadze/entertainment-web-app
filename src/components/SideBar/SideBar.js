@@ -29,9 +29,9 @@ const SideBar = () => {
         <img src={TvSeriesIcon} onClick={(e)=>{SelectedCategoryContext.CategoryHandler("Tv Series");HandleColorChange(e)}}alt=""></img>
         <img src={BookMarkIcon}  onClick={(e)=>{SelectedCategoryContext.CategoryHandler("Bookmarked Movies");HandleColorChange(e)}}alt=""></img>
       </div>
-      <div id="LoginForm">
+      {/* <div id="LoginForm">
         <img src={LoginForm} alt="LoginForm"></img>
-      </div>
+      </div> */}
     </div>
   );
 };
